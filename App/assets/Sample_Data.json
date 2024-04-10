@@ -1,0 +1,52 @@
+[
+    {
+        "image": "https://marinmagazine.com/wp-content/uploads/2023/07/sf-marin-food-bank-san-rafael-@twitter-e1688765354205-770x492.png",
+        "title": "SF Scottish Rite Masonic Center",
+        "distance": "1.4 miles",
+        "time": "7 minutes",
+        "deliveries": "6",
+        "rating": 5,
+        "description": "Provides an opportunity for men, women, and youth to enjoy fellowship, serve communities, and deepen their understanding of life.",
+        "address": "2850 19th avenue"
+    },
+    {
+        "image": "https://patch.com/img/cdn20/users/23958596/20211001/113148/styles/patch_image/public/-dsc4594___01112906441.jpg",
+        "title": "Edgewood Food Bank",
+        "distance": "2.0 miles",
+        "time": "9 minutes",
+        "deliveries": "15",
+        "rating": 3,
+        "description": "Provides an opportunity for men, women, and youth to enjoy fellowship, serve communities, and deepen their understanding of life.",
+        "address": "1801 Vicente St"
+    },
+    {
+        "image": "https://foodwise.org/wp-content/uploads/2023/01/demo_volunteers_baraghani.jpg",
+        "title": "Haight Ashbury Food Progra...",
+        "distance": "3.4 miles",
+        "time": "16 minutes",
+        "deliveries": "6",
+        "rating": 5,
+        "description": "Provide food and referral services to those in need while fostering a sense of belonging and self worth for all involved.",
+        "address": "1525 Waller St"
+    },
+    {
+        "image": "https://s3.amazonaws.com/cms.ipressroom.com/231/files/20236/64ada78f3d6332d49c814341_Feeding+America+Milwaukee+Food+Sort+15.31.23/Feeding+America+Milwaukee+Food+Sort+15.31.23_edaa51bd-4ed9-4ede-ab5a-89572e54be3f-prv.jpg",
+        "title": "Mission Food Hub",
+        "distance": "4.5 miles",
+        "time": "16 minutes",
+        "deliveries": "12",
+        "rating": 4,
+        "description": "Provide culturally appropriate groceries for families who were affected by COVID-19. We provide 500 families with grocery bags weekly.",
+        "address": "701 Alabama St"
+    },
+    {
+        "image": "https://www.som.com/wp-content/uploads/2021/08/NFN_2020252_N15_large-scaled.jpg",
+        "title": "SF-Marin Food Bank",
+        "distance": "8.2 miles",
+        "time": "18 minutes",
+        "deliveries": "15",
+        "rating": 5,
+        "description": "Our mission is to end hunger in San Francisco and Marin. We address hunger head-on - from our food pantry network delivering groceries.",
+        "address": "1050 Marin St"
+    }
+]
